@@ -1,0 +1,11 @@
+{
+  "name": "why-dota-sucks-chinese-translation",
+  "version": "0.0.1",
+  "description": "Chinese translation of book Why Dota Sucks.",
+  "author": "SuneBear",
+  "license": "CC BY-NC-SA 4.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Dotabby/Why-Dota-Sucks-Chinese-Translation.git"
+  }
+}
