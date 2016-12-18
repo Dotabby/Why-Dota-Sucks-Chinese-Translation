@@ -1,6 +1,7 @@
 # 附
 
 ## 文学作品中英对照
+<<<<<<< 6ebad87d26e9837471b257dbfcb2813ab1ed4dd6
 - 指环王 - The Lord of the Rings
 
 ## 游戏中英对照
@@ -55,3 +56,16 @@
 - Dota 2 PC点评 - bit.ly/2hPPN6e
 - Dota 2：电子英雄的殿堂 - bit.ly/2hPSgh8
 - 欢迎来到 Dota，你很烂 - bit.ly/1bJkXHr
+=======
+- 指环王 - The Lord of the Rings 
+
+## 游戏中英对照
+- 英雄联盟 - League Of Legends
+- 星际争霸 - StarCraft
+
+## 人物中英对照
+- 史蒂夫
+
+## 参考链接
+- 123 - bit.ly/1fQ9FlC
+>>>>>>> 引及附录
