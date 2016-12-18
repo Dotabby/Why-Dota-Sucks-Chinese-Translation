@@ -1,6 +1,7 @@
 # 附
 
 ## 文学作品中英对照
+<<<<<<< 8df80c095feb55679620f3cb9e7aea3c4587cc38
 <<<<<<< 6ebad87d26e9837471b257dbfcb2813ab1ed4dd6
 - 指环王 - The Lord of the Rings
 
@@ -58,14 +59,30 @@
 - 欢迎来到 Dota，你很烂 - bit.ly/1bJkXHr
 =======
 - 指环王 - The Lord of the Rings 
+=======
+- 指环王 - The Lord of the Rings
+>>>>>>> 参考；引；更新
 
 ## 游戏中英对照
 - 英雄联盟 - League Of Legends
 - 星际争霸 - StarCraft
+- 反恐精英 - Counter-Strike
+
+## 游戏厂商中英对照
+- 拳头游戏 - Riot Games
 
 ## 人物中英对照
-- 史蒂夫
+- 怪咖 - Frankenstein
 
 ## 参考链接
+<<<<<<< 8df80c095feb55679620f3cb9e7aea3c4587cc38
 - 123 - bit.ly/1fQ9FlC
 >>>>>>> 引及附录
+=======
+- 拳头游戏公司爆料英雄联盟日活 2700 万，月活 6700 万 [http://bit.ly/1hSfU7c][1]
+- 新历史纪录：839715 位玩家同时在线 [http://bit.ly/2hHPV9g][2]
+- 
+
+[1]:	http://bit.ly/1hSfU7c
+[2]:	http://bit.ly/2hHPV9g
+>>>>>>> 参考；引；更新

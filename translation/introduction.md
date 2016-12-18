@@ -8,13 +8,20 @@ Synopsis: Welcome to "Why Dota Sucks". Contrary to the commercial, critical, and
 
 If I had to describe the dota genre[^1] to someone who has never heard of it, I'd say it's a little like taking the battles in The Lord of the Rings and turning them into a team sport. In this genre, participants take the role of powerful heroes and lead their disposable followers into battlefields more like a football pitch than the fields of war. If that seems a little odd to you, I suggest you get comfortable with it, because it's getting attention that the old guard in game development would kill for.
 
-如果我不得不向那些从未听说过 Dota 的人形容它的游戏类型，我会说这有点像在指环王中参加战斗，并且将这个战斗转化成一项团队竞技。在这个游戏类型中，参赛者扮演了强大的英雄，并在赛场中带领他们的小兵，而赛场更像是足球比赛的球场，而非真正的战场。如果这似乎对你来说很难理解，那我建议你要接受它，因为注意，就是要杀死那些游戏中生成的守卫。
+如果我不得不向那些从未听说过 Dota 的人形容它的游戏类型，我会说这有点像在指环王中参加战斗，并且将这个战斗转化成一项团队竞技。在这个游戏类型中，参赛者扮演了强大的英雄，并在赛场中带领他们的小兵，而赛场更像是足球比赛的球场，而非真正的战场。如果这似乎对你来说很难理解，那我建议你要接受它，因为要注意，就是要杀死那些游戏中生成的守卫。
 
 Riot Games' League of Legends is played by tens of millions of people every day[^2] and Valve Corporation's Dota 2 is far and away the most popular game on Valve's wildly popular Steam distribution service.[^3] Dota hasn't merely positioned itself as an appeal to the masses, ala a Call of Duty or Grand Theft Auto. The genre has surpassed the StarCraft and Counter-Strike series as the figurehead in the growing circus of professional videogame tournaments and is getting high praise from some of the most capable videogame players. What was intended to be little more than a series of distractions in the Blizzard Entertainment real-time strategy ecosystem is now the hottest genre in videogames.
 
+拳头游戏的英雄联盟，每天都会有数千万的玩家玩，而维尔福软体公司的 Dota 2 
+是 Steam 游戏分发平台上最受欢迎的游戏。Dota 不仅将自己定位为使命召唤或侠盗猎车手这样吸引大众的游戏。该游戏，已经超越了职业电竞比赛中的佼佼者——星际争霸和反恐精英系列，并取得了游戏高手的广泛好评。现在，已在暴雪娱乐即时战略游戏中，成为最热门的电子游戏类型。
+
 So that's the question: How could the dota genre possibly "suck"?
 
+因此，就产生了这样的疑问， Dota 怎么可能“让人不爽”？
+
 Quite frankly, it doesn't matter what you call dota games, it doesn't matter who is developing them, and I don't care what anyone else is saying about them. They suck. The genre is so fundamentally dysfunctional that it should have been laughed off the board the second it was considered anything more than a sideshow in the world of Blizzard RTS games. Dota is the Frankenstein of terrible game design concepts, the culmination of every damaging design trend in modern videogames. And yet, dota games—particularly Dota 2[^4]—are being held to the same regard as the most beautifully crafted videogames ever assembled. The ongoing narrative for Defense of the Ancients is that a series of amateur content creators with limited programming experience and few financial resources created a Warcraft III map that was not only better than Warcraft III, but surpassed the collective efforts of a billion-dollar videogame industry and its world-class game creators.[^5] A story that should set off red flags in the mind of any reasonable person has become a rallying cry for transformative change in the world of videogames.
+
+坦率讲，这不关乎你如何命名 Data，也并不关乎谁开发它，甚至我都不关心其他人如何谈论它。它就是让人感到不爽！这个游戏非常失衡，以至于它应该被一笑置之；其次，它被看作是暴雪娱乐的实时战略游戏，而非一个附带游戏。Dota 是糟糕的游戏设计概念中的怪咖，是当今电子游戏所有有害设计趋势的巅峰。然而，Dota 游戏，尤其是 Dota 2 ,被一致认为是史上制作最精良的电子游戏。
 
 So, here we go. The purpose of "Why Dota Sucks" is to fully deconstruct the history, circumstance, and design of Defense of the Ancients and the games inspired by it, and to show how flawed the genre really is. You may consider the title inflammatory, but quite frankly, it's the most honest and accurate title that I could come up with. The deconstruction will focus on dota games in the direct lineage of Defense of the Ancients and Aeon of Strife, including League of Legends, Dota 2, Heroes of Newerth, Smite, Demigod, Awesomenauts, and Dead Island: Epidemic. The goal is to put forward the most complex and complete analysis of the dota genre that anyone will ever author and to provide the desperately-needed foundation for a discussion that has gone nowhere over the last decade.
 
