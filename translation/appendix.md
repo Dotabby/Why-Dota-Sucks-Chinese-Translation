@@ -67,9 +67,21 @@
 - 英雄联盟 - League Of Legends
 - 星际争霸 - StarCraft
 - 反恐精英 - Counter-Strike
+- 魔兽争霸 III（魔兽争霸III：混乱之治） - Warcraft III ( Warcraft III: Reign of Chaos)
+- 万世浩劫（亦作上古浩劫、漫长的战争） - Aeon of Strife
+- 超神英雄 - Heroes of Newerth
+- 毁灭 - Smite
+- 半神 - Demigod
+- 王牌英雄 - Awesomenauts
+- 死亡岛：流行 - Dead Island: Epidemic
+- 星际争霸 II: 自由之翼 - StarCraft II: Wings of Liberty
+- 马里奥 - Mario
+- 塞尔达传说 - Zelda
+- 守护遗迹 - Defense of the Ancients, 简称 DotA
 
 ## 游戏厂商中英对照
 - 拳头游戏 - Riot Games
+- 暴雪娱乐 - Blizzard Entertainment
 
 ## 人物中英对照
 - 怪咖 - Frankenstein
@@ -81,8 +93,16 @@
 =======
 - 拳头游戏公司爆料英雄联盟日活 2700 万，月活 6700 万 [http://bit.ly/1hSfU7c][1]
 - 新历史纪录：839715 位玩家同时在线 [http://bit.ly/2hHPV9g][2]
-- 
+- Dota 2 PC点评：[http://www.metacritic.com/game/pc/dota-2/critic-reviews][3]
+- Dota 2：电子英雄的殿堂 [https://www.rockpapershotgun.com/2012/08/21/dota-2-pt1/][4]
+- 欢迎来到 Dota，你很烂 [http://www.purgegamers.com/welcome-to-dota-you-suck][5]
 
 [1]:	http://bit.ly/1hSfU7c
 [2]:	http://bit.ly/2hHPV9g
+<<<<<<< 848b257724bab7926e60f9127c57a82a835524e9
 >>>>>>> 参考；引；更新
+=======
+[3]:	http://www.metacritic.com/game/pc/dota-2/critic-reviews
+[4]:	https://www.rockpapershotgun.com/2012/08/21/dota-2-pt1/
+[5]:	http://www.purgegamers.com/welcome-to-dota-you-suck
+>>>>>>> 引完结
