@@ -30,6 +30,8 @@
 - 星际争霸 II: 自由之翼 - StarCraft II: Wings of Liberty
 - 马里奥 - Mario
 - 塞尔达传说 - Zelda
+- 沙丘 II - Dune II
+- Doom - 毁灭
 
 ## 游戏类型中英对照
 - 多人在线战术竞技 - MOBA (Multiplayer Online Battle Arena)
@@ -41,6 +43,8 @@
 - 拳头游戏 - Riot Games
 - 维尔福 - Valve
 - 暴雪娱乐 - Blizzard Entertainment
+- 西木工作室 - Westwood Studios
+- Id 软件公司 - id Software
 
 ## 人物中英对照
 - 汤姆·凯威 - Tom Cadwell
