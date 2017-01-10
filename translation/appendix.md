@@ -6,7 +6,7 @@
 ## 游戏中英对照
 - 守护遗迹 - Defense of the Ancients, 简称 DotA
 - 星际争霸 - StarCraft
-- 万世浩劫 - Aeon of Strife
+- 万世浩劫（漫长的战争） - Aeon of Strife
 - 魔兽争霸 III：混乱之治 - Warcraft III: Reign of Chaos
 - 英雄联盟 - League of Legends
 - 雷神 - Quake
