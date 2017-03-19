@@ -88,7 +88,7 @@
 
 \[12\]：GosuGamers，“A History of Dota：Part 1”; 发表于2011年8月10日（\[来源]()（https://web.archive.org/web/20130605165312/http://www.gosugamers.net/forums/topic/802775-a-history-of-dota-part- 1））
 
-\[13\]：虽然一个流行的Machinima回顾展示了一个“__Aeon of Strife__”地图的图片，其特点是具有水平和法术系统，它实际上是从“__Star工艺Dota__”，2008自定义地图异想打算 端口__Defense的Ancients__体验回到__StarCraft__。 我没有看到任何一个系统在 StarCraft \形成年期间使用的证据。 在等级系统的位置，Aeon of Strife  允许你为你的角色购买武器和护甲升级。 （\[source]()（https://www.youtube.com/watch?v=AnQfdSEqGDA））（\[来源]()（http://www.staredit.net/topic/3700/0/））
+\[13\]：虽然一个流行的Machinima回顾展示了一个“_Aeon of Strife_”地图的图片，其特点是具有水平和法术系统，它实际上是从“_Star工艺Dota_”，2008自定义地图异想打算 端口_Defense的Ancients_体验回到_StarCraft_。 我没有看到任何一个系统在 StarCraft \形成年期间使用的证据。 在等级系统的位置，Aeon of Strife  允许你为你的角色购买武器和护甲升级。 （\[source]()（https://www.youtube.com/watch?v=AnQfdSEqGDA））（\[来源]()（http://www.staredit.net/topic/3700/0/））
 
 \[14\]：令人惊讶的是，在这个特定的方面，Campaign Editor是War2xEd的回归，它至少允许创作者修改单位的攻击类型。
 
@@ -97,21 +97,21 @@
 \[16\]：应该注意的是，许多 StarCraft 的对手，包括 Total Annihilation 及其强大的制作场景，没有得到一个服务与Battle.net相当的好处 发射。
 
 
-\[17\]：一些地图基于__Aeon of Strife__的特色是三个或四个团队去。 （最引人注目的地图是采用这个特征的是“复活的国家”，它与“魔法世界”的精神和优势更加相同。）这个先例后来通过__Dead Island：Epidemic__以商业格式。
+\[17\]：一些地图基于_Aeon of Strife_的特色是三个或四个团队去。 （最引人注目的地图是采用这个特征的是“复活的国家”，它与“魔法世界”的精神和优势更加相同。）这个先例后来通过_Dead Island：Epidemic_以商业格式。
 
-\[18\]：暴雪的原始计划是废弃RTS熟悉的经济管理和基础构建，早期构建的__Warcraft III__更接近__Myth__比__StarCraft__。 然而，在游戏的原始版本中发现的许多概念将存在于最终版本中，并且“RPS”标签将持续一段时间。 （\[来源]()（http://www.rpgamer.com/news/Q3-1999/090599a.html））
+\[18\]：暴雪的原始计划是废弃RTS熟悉的经济管理和基础构建，早期构建的_Warcraft III_更接近_Myth_比_StarCraft_。 然而，在游戏的原始版本中发现的许多概念将存在于最终版本中，并且“RPS”标签将持续一段时间。 （\[来源]()（http://www.rpgamer.com/news/Q3-1999/090599a.html））
 
 \[19\]：也许最引人注目的是，几乎所有的游戏中的生物 - 甚至单位，玩家可能永远不能控制在播放活动和冲突模式的过程中 - 特色的完整的声音演出。
 
 
-\[20\]：即使__Warcraft III__自定义地图的特点是比冲突比赛更多的移动部分，游戏仍然是一个早期的3D RTS游戏。 这使得地图创建者难以在屏幕上获得数百个单元，并且仍然提供可在当时的家用计算机上播放的体验。 这些结果将在本书后面给予注意。
+\[20\]：即使_Warcraft III_自定义地图的特点是比冲突比赛更多的移动部分，游戏仍然是一个早期的3D RTS游戏。 这使得地图创建者难以在屏幕上获得数百个单元，并且仍然提供可在当时的家用计算机上播放的体验。 这些结果将在本书后面给予注意。
 
 \[21\]：很难夸大内容的获取和剽窃在Battle.net的历史上都很常见，导致了对地图加密程序的高需求。
 
 
 \[22\]：Nicholas Werner，“所有你的历史：DOTA第1部分 - 开始的雪崩的雪崩”; 2012年1月4日发布（\[来源]()（http://www.insidegamingdaily.com/2012/01/04/all-your-history-dota-part-1-the-pebble-that-started-the-avalance/ ））
 
-\[23\]：不要让这低估了与这张地图发生的合作程度。 社区建议是__DotA全明星设计过程的一个常见部分，无数的英雄和想法来自这些建议。
+\[23\]：不要让这低估了与这张地图发生的合作程度。 社区建议是_DotA全明星设计过程的一个常见部分，无数的英雄和想法来自这些建议。
 
 \[24](): The system was also designed to blacklist players who left matches early or attempted to ruin them. This manifested itself in a "shitlist" that listed the names of the offenders and the reasons they had been banned. While it is no longer available, it was one of the funniest things to grace this end of the internet, and a perfect example of what happens when you give dumb children a taste of power. (\[source]()(http://www.learntocounter.com/the-dota-banlists-greatest-hits/))
 
@@ -125,27 +125,27 @@
 
 \[26\]：GosuGamers，“A History of Dota：Part 1”; 发表于2011年8月10日（\[来源]()（https://web.archive.org/web/20130605165312/http://www.gosugamers.net/forums/topic/802775-a-history-of-dota-part- 1））
 
-\[27](): This left other dota maps like __Tides of Blood__ in the position of making a name for themselves with a more limited audience. Needless to say, we're not writing books about those maps.
+\[27](): This left other dota maps like _Tides of Blood_ in the position of making a name for themselves with a more limited audience. Needless to say, we're not writing books about those maps.
 
 \[27\]：这留下了其他的dota地图，如“血潮”，为更有限的受众创造一个名字。 不用说，我们不是在写这些地图的书。
 
-\[28\]：Garena类似于其他服务，如Kali，Kahn和GameRanger，并使用他们的本地网络功能将游戏连接到互联网。 因为这个，程序违反没有法律。 在2006年和2007年，Garena上的__Warcraft III__玩家的总数 - 绝大多数玩家 Defense of Ancients -将达到超过25万用户，大约是 Warcraft III 玩家数量的5倍 战斗网。
+\[28\]：Garena类似于其他服务，如Kali，Kahn和GameRanger，并使用他们的本地网络功能将游戏连接到互联网。 因为这个，程序违反没有法律。 在2006年和2007年，Garena上的_Warcraft III_玩家的总数 - 绝大多数玩家 Defense of Ancients -将达到超过25万用户，大约是 Warcraft III 玩家数量的5倍 战斗网。
 
-\[29\]：魔兽世界的野生财政成功毫无疑问地打了决定，以摧毁__StarCraft II__。 但是很像Activision的选择，在__Call of Duty：Modern Warfare 2__中禁用专用服务器功能，Blizzard正在围堵一个没有从围墙中获益的游戏。 简单来说，这是一个商业决策和知识产权。 有关这个主题的更多阅读，我会推荐我自己的短篇系列“Battle.net 2.0的创作”。 （\[source]()（http://www.learntocounter.com/the-creation-of-battle-net-2-0-part-one/））
+\[29\]：魔兽世界的野生财政成功毫无疑问地打了决定，以摧毁_StarCraft II_。 但是很像Activision的选择，在_Call of Duty：Modern Warfare 2_中禁用专用服务器功能，Blizzard正在围堵一个没有从围墙中获益的游戏。 简单来说，这是一个商业决策和知识产权。 有关这个主题的更多阅读，我会推荐我自己的短篇系列“Battle.net 2.0的创作”。 （\[source]()（http://www.learntocounter.com/the-creation-of-battle-net-2-0-part-one/））
 
-\[30\]：虽然这种执法对许多年轻的电子游戏玩家似乎是显而易见的，但是对于第三方内容，伦理和版权有点像狂野西部的世界来说，这是一个死亡。 而在__StarCraft II__的情况下，只有使用新版本的Battle.net才可能玩家基础鄙视。
+\[30\]：虽然这种执法对许多年轻的电子游戏玩家似乎是显而易见的，但是对于第三方内容，伦理和版权有点像狂野西部的世界来说，这是一个死亡。 而在_StarCraft II_的情况下，只有使用新版本的Battle.net才可能玩家基础鄙视。
 
-\[31\]：信念迅速传播，该系统的意图是给暴雪在下一个__坚固的Ancients__，任何形式，它可能出现的枷锁。
+\[31\]：信念迅速传播，该系统的意图是给暴雪在下一个_坚固的Ancients_，任何形式，它可能出现的枷锁。
 
 \[32\]：在S2 Games的IceFrog的工作的性质是严重的争议，一般来说，有很多戏剧周围的类型的过渡到一个商业企业的早期。 但这些问题可以留给另一个作家另一天，他们不相关的这本书。 “据称”只是说“据称”。
 
-\[33\]：暴雪一直是一个非常成功的游戏开发商，但他们的RTS游戏通常是马虎的编程的支持者，眼睛测试由文档支持。 前暴雪程序员Patrick Wyatt已经记录了__Warcraft III__游戏引擎被许多程序员称为“brainfuck”。 （\[source]()（http://www.codeofhonor.com/blog/starcraft-orcs-in-space-go-down-in-flames））
+\[33\]：暴雪一直是一个非常成功的游戏开发商，但他们的RTS游戏通常是马虎的编程的支持者，眼睛测试由文档支持。 前暴雪程序员Patrick Wyatt已经记录了_Warcraft III_游戏引擎被许多程序员称为“brainfuck”。 （\[source]()（http://www.codeofhonor.com/blog/starcraft-orcs-in-space-go-down-in-flames））
 
 \[34\]：很简单，“mouselook”是玩家通过移动鼠标来定位相机的地方。 它最引人注目的使用在第一人称射击类型，其中相机的运动作为你的目标你的武器的手段。
 
 \[35\]：Mouselook已被黑客入游戏的进取的玩家，但像大多数扫荡的变化，它不能在战网上使用。 （\[来源]()（http://www.youtube.com/watch?v=S5t9NWViPrE））
 
-\[36\]：如果你想确认这一点，请加载你的__The Frozen Throne__的副本，并尝试第一方自定义地图__Azeroth Grand Prix__。 即使当它在本地设置中播放时，地图也有相当多的延迟问题。
+\[36\]：如果你想确认这一点，请加载你的_The Frozen Throne_的副本，并尝试第一方自定义地图_Azeroth Grand Prix_。 即使当它在本地设置中播放时，地图也有相当多的延迟问题。
 
-\[37\]：另一种类型，不出意料，是塔防类型，__Plants vs. Zombies__，__Orcs Must Die！__和__Sanctum__的世界。 尽管1990年的优秀__Rampart__，我们今天知道的类型也编纂了暴雪的编辑工具。
+\[37\]：另一种类型，不出意料，是塔防类型，_Plants vs. Zombies_，_Orcs Must Die！_和_Sanctum_的世界。 尽管1990年的优秀_Rampart_，我们今天知道的类型也编纂了暴雪的编辑工具。
 
