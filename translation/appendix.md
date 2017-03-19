@@ -1,15 +1,13 @@
 # 附
 
 ## 文学作品中英对照
-<<<<<<< 8df80c095feb55679620f3cb9e7aea3c4587cc38
-<<<<<<< 6ebad87d26e9837471b257dbfcb2813ab1ed4dd6
 - 指环王 - The Lord of the Rings
 
 ## 游戏中英对照
 - 守护遗迹 - Defense of the Ancients, 简称 DotA
 - 星际争霸 - StarCraft
 - 万世浩劫 - Aeon of Strife
-- 魔兽争霸 III：混乱之治 - Warcraft III: Reign of Chaos
+- 魔兽争霸 III（魔兽争霸III：混乱之治） - Warcraft III ( Warcraft III: Reign of Chaos)
 - 英雄联盟 - League of Legends
 - 雷神 - Quake
 - 虚幻竞技场 - Unreal Tournament
@@ -48,6 +46,7 @@
 - 汤姆·凯威 - Tom Cadwell
 - 加布·纽维尔 - Gabe Newell
 - 艾力克斯·基克格德 - Alex Kierkegaard
+- 怪咖 - Frankenstein
 
 ## 参考链接
 - 采访：拳头游戏即将推出作品《英雄联盟》 - bit.ly/2hwsXnL
@@ -57,52 +56,11 @@
 - Dota 2 PC点评 - bit.ly/2hPPN6e
 - Dota 2：电子英雄的殿堂 - bit.ly/2hPSgh8
 - 欢迎来到 Dota，你很烂 - bit.ly/1bJkXHr
-=======
-- 指环王 - The Lord of the Rings 
-=======
-- 指环王 - The Lord of the Rings
->>>>>>> 参考；引；更新
+- 拳头游戏公司爆料英雄联盟日活 2700 万，月活 6700 万 - http://bit.ly/1hSfU7c]
+- 新历史纪录：839715 位玩家同时在线 - http://bit.ly/2hHPV9g
+- Dota 2 PC点评：- http://www.metacritic.com/game/pc/dota-2/critic-reviews
+- Dota 2：电子英雄的殿堂 - https://www.rockpapershotgun.com/2012/08/21/dota-2-pt1/
+- 欢迎来到 Dota，你很烂 - http://www.purgegamers.com/welcome-to-dota-you-suck
 
-## 游戏中英对照
-- 英雄联盟 - League Of Legends
-- 星际争霸 - StarCraft
-- 反恐精英 - Counter-Strike
-- 魔兽争霸 III（魔兽争霸III：混乱之治） - Warcraft III ( Warcraft III: Reign of Chaos)
-- 万世浩劫（亦作上古浩劫、漫长的战争） - Aeon of Strife
-- 超神英雄 - Heroes of Newerth
-- 毁灭 - Smite
-- 半神 - Demigod
-- 王牌英雄 - Awesomenauts
-- 死亡岛：流行 - Dead Island: Epidemic
-- 星际争霸 II: 自由之翼 - StarCraft II: Wings of Liberty
-- 马里奥 - Mario
-- 塞尔达传说 - Zelda
-- 守护遗迹 - Defense of the Ancients, 简称 DotA
 
-## 游戏厂商中英对照
-- 拳头游戏 - Riot Games
-- 暴雪娱乐 - Blizzard Entertainment
 
-## 人物中英对照
-- 怪咖 - Frankenstein
-
-## 参考链接
-<<<<<<< 8df80c095feb55679620f3cb9e7aea3c4587cc38
-- 123 - bit.ly/1fQ9FlC
->>>>>>> 引及附录
-=======
-- 拳头游戏公司爆料英雄联盟日活 2700 万，月活 6700 万 [http://bit.ly/1hSfU7c][1]
-- 新历史纪录：839715 位玩家同时在线 [http://bit.ly/2hHPV9g][2]
-- Dota 2 PC点评：[http://www.metacritic.com/game/pc/dota-2/critic-reviews][3]
-- Dota 2：电子英雄的殿堂 [https://www.rockpapershotgun.com/2012/08/21/dota-2-pt1/][4]
-- 欢迎来到 Dota，你很烂 [http://www.purgegamers.com/welcome-to-dota-you-suck][5]
-
-[1]:	http://bit.ly/1hSfU7c
-[2]:	http://bit.ly/2hHPV9g
-<<<<<<< 848b257724bab7926e60f9127c57a82a835524e9
->>>>>>> 参考；引；更新
-=======
-[3]:	http://www.metacritic.com/game/pc/dota-2/critic-reviews
-[4]:	https://www.rockpapershotgun.com/2012/08/21/dota-2-pt1/
-[5]:	http://www.purgegamers.com/welcome-to-dota-you-suck
->>>>>>> 引完结
