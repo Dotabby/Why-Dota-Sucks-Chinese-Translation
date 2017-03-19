@@ -81,14 +81,14 @@
 
 \[9\]：在任何时候，大多数打猎者把玩家对抗不超过十几个对手，“割草机”游戏抛出与硬件可以处理的玩家一样多的对手。 在理论上，将数百敌人放在屏幕上 - 所有做他们可以扼杀玩家的一切 - 应该是一个了不起的概念。 在现实中，这些巨大的军队通常是冲压袋，切割它们有点像割草。 不幸的是，系列如Samurai Warriors和Dynasty Warriors卖得那么好，公司没有理由改变公式。
 
-\[10\]：SC2Mapster，“有没有人打过原始的争斗的永恒？ thread posted August 17，2011（\[source]()（http://www.sc2mapster.com/forums/general/off-topic/24688-has-anyone-ever-played-the-original-aeon-of-strife/# p4））
+\[10\]：SC2Mapster，“有没有人打过原始的争斗的永恒？ thread posted August 17，2011（\[来源](http://www.sc2mapster.com/forums/general/off-topic/24688-has-anyone-ever-played-the-original-aeon-of-strife/# p4））
 
 
 \[11\]：当我们将“Aeon of Strife”或另一个Battle.net自定义地图称为单个实体时，通常是为了方便。 像Battle.net上的大多数自定义内容一样，Aeon of Strife是一个品牌。 如果你的目标是推销和传播你的地图，最简单的方法是把自己与这些品牌之一。
 
-\[12\]：GosuGamers，“A History of Dota：Part 1”; 发表于2011年8月10日（\[来源]()（https://web.archive.org/web/20130605165312/http://www.gosugamers.net/forums/topic/802775-a-history-of-dota-part- 1））
+\[12\]：GosuGamers，“A History of Dota：Part 1”; 发表于2011年8月10日（\[来源](https://web.archive.org/web/20130605165312/http://www.gosugamers.net/forums/topic/802775-a-history-of-dota-part- 1））
 
-\[13\]：虽然一个流行的Machinima回顾展示了一个“_Aeon of Strife_”地图的图片，其特点是具有水平和法术系统，它实际上是从“_Star工艺Dota_”，2008自定义地图异想打算 端口_Defense的Ancients_体验回到_StarCraft_。 我没有看到任何一个系统在 StarCraft \形成年期间使用的证据。 在等级系统的位置，Aeon of Strife  允许你为你的角色购买武器和护甲升级。 （\[source]()（https://www.youtube.com/watch?v=AnQfdSEqGDA））（\[来源]()（http://www.staredit.net/topic/3700/0/））
+\[13\]：虽然一个流行的Machinima回顾展示了一个“_Aeon of Strife_”地图的图片，其特点是具有水平和法术系统，它实际上是从“_Star工艺Dota_”，2008自定义地图异想打算 端口_Defense的Ancients_体验回到_StarCraft_。 我没有看到任何一个系统在 StarCraft \形成年期间使用的证据。 在等级系统的位置，Aeon of Strife  允许你为你的角色购买武器和护甲升级。 （\[来源](https://www.youtube.com/watch?v=AnQfdSEqGDA））（\[来源](http://www.staredit.net/topic/3700/0/））
 
 \[14\]：令人惊讶的是，在这个特定的方面，Campaign Editor是War2xEd的回归，它至少允许创作者修改单位的攻击类型。
 
@@ -99,7 +99,7 @@
 
 \[17\]：一些地图基于_Aeon of Strife_的特色是三个或四个团队去。 （最引人注目的地图是采用这个特征的是“复活的国家”，它与“魔法世界”的精神和优势更加相同。）这个先例后来通过_Dead Island：Epidemic_以商业格式。
 
-\[18\]：暴雪的原始计划是废弃RTS熟悉的经济管理和基础构建，早期构建的_Warcraft III_更接近_Myth_比_StarCraft_。 然而，在游戏的原始版本中发现的许多概念将存在于最终版本中，并且“RPS”标签将持续一段时间。 （\[来源]()（http://www.rpgamer.com/news/Q3-1999/090599a.html））
+\[18\]：暴雪的原始计划是废弃RTS熟悉的经济管理和基础构建，早期构建的_Warcraft III_更接近_Myth_比_StarCraft_。 然而，在游戏的原始版本中发现的许多概念将存在于最终版本中，并且“RPS”标签将持续一段时间。 （\[来源](http://www.rpgamer.com/news/Q3-1999/090599a.html））
 
 \[19\]：也许最引人注目的是，几乎所有的游戏中的生物 - 甚至单位，玩家可能永远不能控制在播放活动和冲突模式的过程中 - 特色的完整的声音演出。
 
@@ -109,21 +109,21 @@
 \[21\]：很难夸大内容的获取和剽窃在Battle.net的历史上都很常见，导致了对地图加密程序的高需求。
 
 
-\[22\]：Nicholas Werner，“所有你的历史：DOTA第1部分 - 开始的雪崩的雪崩”; 2012年1月4日发布（\[来源]()（http://www.insidegamingdaily.com/2012/01/04/all-your-history-dota-part-1-the-pebble-that-started-the-avalance/ ））
+\[22\]：Nicholas Werner，“所有你的历史：DOTA第1部分 - 开始的雪崩的雪崩”; 2012年1月4日发布（\[来源](http://www.insidegamingdaily.com/2012/01/04/all-your-history-dota-part-1-the-pebble-that-started-the-avalance/ ））
 
 \[23\]：不要让这低估了与这张地图发生的合作程度。 社区建议是_DotA全明星设计过程的一个常见部分，无数的英雄和想法来自这些建议。
 
-\[24](): The system was also designed to blacklist players who left matches early or attempted to ruin them. This manifested itself in a "shitlist" that listed the names of the offenders and the reasons they had been banned. While it is no longer available, it was one of the funniest things to grace this end of the internet, and a perfect example of what happens when you give dumb children a taste of power. (\[source]()(http://www.learntocounter.com/the-dota-banlists-greatest-hits/))
+\[24](): The system was also designed to blacklist players who left matches early or attempted to ruin them. This manifested itself in a "shitlist" that listed the names of the offenders and the reasons they had been banned. While it is no longer available, it was one of the funniest things to grace this end of the internet, and a perfect example of what happens when you give dumb children a taste of power. (\[来源](http://www.learntocounter.com/the-dota-banlists-greatest-hits/))
 
-\[24\]：该系统还被设计为黑名单的球员谁提前离开比赛或试图破坏他们。 这表现在一个“shitlist”，列出了罪犯的名字和他们被禁止的原因。 虽然它不再可用，它是最有趣的事情之一，以支持这个结束的互联网，和一个完美的例子，当你给愚蠢的孩子一个权力的味道会发生什么。 （\[source]()（http://www.learntocounter.com/the-dota-banlists-greatest-hits/））
+\[24\]：该系统还被设计为黑名单的球员谁提前离开比赛或试图破坏他们。 这表现在一个“shitlist”，列出了罪犯的名字和他们被禁止的原因。 虽然它不再可用，它是最有趣的事情之一，以支持这个结束的互联网，和一个完美的例子，当你给愚蠢的孩子一个权力的味道会发生什么。 （\[来源](http://www.learntocounter.com/the-dota-banlists-greatest-hits/））
 
-\[25](): dota-allstars.com, "Interview with Pendragon, The future of DotA-Allstars.com"; posted April 28, 2009 (\[source]()(http://web.archive.org/web/20090519095615/http://forums.dota-allstars.com/index.php?showtopic=281279&st=0))
+\[25](): dota-allstars.com, "Interview with Pendragon, The future of DotA-Allstars.com"; posted April 28, 2009 (\[来源](http://web.archive.org/web/20090519095615/http://forums.dota-allstars.com/index.php?showtopic=281279&st=0))
 
-\[25\]：dota-allstars.com，“Pendragon采访，DotA-Allstars.com的未来”; 发布于2009年4月28日（\[来源]()（http://web.archive.org/web/20090519095615/http://forums.dota-allstars.com/index.php?showtopic=281279&st=0））
+\[25\]：dota-allstars.com，“Pendragon采访，DotA-Allstars.com的未来”; 发布于2009年4月28日（\[来源](http://web.archive.org/web/20090519095615/http://forums.dota-allstars.com/index.php?showtopic=281279&st=0））
 
-\[26](): GosuGamers, "A History of Dota: Part 1"; published August 10, 2011 (\[source]()(https://web.archive.org/web/20130605165312/http://www.gosugamers.net/forums/topic/802775-a-history-of-dota-part-1))
+\[26](): GosuGamers, "A History of Dota: Part 1"; published August 10, 2011 (\[来源](https://web.archive.org/web/20130605165312/http://www.gosugamers.net/forums/topic/802775-a-history-of-dota-part-1))
 
-\[26\]：GosuGamers，“A History of Dota：Part 1”; 发表于2011年8月10日（\[来源]()（https://web.archive.org/web/20130605165312/http://www.gosugamers.net/forums/topic/802775-a-history-of-dota-part- 1））
+\[26\]：GosuGamers，“A History of Dota：Part 1”; 发表于2011年8月10日（\[来源](https://web.archive.org/web/20130605165312/http://www.gosugamers.net/forums/topic/802775-a-history-of-dota-part- 1））
 
 \[27](): This left other dota maps like _Tides of Blood_ in the position of making a name for themselves with a more limited audience. Needless to say, we're not writing books about those maps.
 
@@ -131,7 +131,7 @@
 
 \[28\]：Garena类似于其他服务，如Kali，Kahn和GameRanger，并使用他们的本地网络功能将游戏连接到互联网。 因为这个，程序违反没有法律。 在2006年和2007年，Garena上的_Warcraft III_玩家的总数 - 绝大多数玩家 Defense of Ancients -将达到超过25万用户，大约是 Warcraft III 玩家数量的5倍 战斗网。
 
-\[29\]：魔兽世界的野生财政成功毫无疑问地打了决定，以摧毁_StarCraft II_。 但是很像Activision的选择，在_Call of Duty：Modern Warfare 2_中禁用专用服务器功能，Blizzard正在围堵一个没有从围墙中获益的游戏。 简单来说，这是一个商业决策和知识产权。 有关这个主题的更多阅读，我会推荐我自己的短篇系列“Battle.net 2.0的创作”。 （\[source]()（http://www.learntocounter.com/the-creation-of-battle-net-2-0-part-one/））
+\[29\]：魔兽世界的野生财政成功毫无疑问地打了决定，以摧毁_StarCraft II_。 但是很像Activision的选择，在_Call of Duty：Modern Warfare 2_中禁用专用服务器功能，Blizzard正在围堵一个没有从围墙中获益的游戏。 简单来说，这是一个商业决策和知识产权。 有关这个主题的更多阅读，我会推荐我自己的短篇系列“Battle.net 2.0的创作”。 （\[来源](http://www.learntocounter.com/the-creation-of-battle-net-2-0-part-one/））
 
 \[30\]：虽然这种执法对许多年轻的电子游戏玩家似乎是显而易见的，但是对于第三方内容，伦理和版权有点像狂野西部的世界来说，这是一个死亡。 而在_StarCraft II_的情况下，只有使用新版本的Battle.net才可能玩家基础鄙视。
 
@@ -139,11 +139,11 @@
 
 \[32\]：在S2 Games的IceFrog的工作的性质是严重的争议，一般来说，有很多戏剧周围的类型的过渡到一个商业企业的早期。 但这些问题可以留给另一个作家另一天，他们不相关的这本书。 “据称”只是说“据称”。
 
-\[33\]：暴雪一直是一个非常成功的游戏开发商，但他们的RTS游戏通常是马虎的编程的支持者，眼睛测试由文档支持。 前暴雪程序员Patrick Wyatt已经记录了_Warcraft III_游戏引擎被许多程序员称为“brainfuck”。 （\[source]()（http://www.codeofhonor.com/blog/starcraft-orcs-in-space-go-down-in-flames））
+\[33\]：暴雪一直是一个非常成功的游戏开发商，但他们的RTS游戏通常是马虎的编程的支持者，眼睛测试由文档支持。 前暴雪程序员Patrick Wyatt已经记录了_Warcraft III_游戏引擎被许多程序员称为“brainfuck”。 （\[来源](http://www.codeofhonor.com/blog/starcraft-orcs-in-space-go-down-in-flames））
 
 \[34\]：很简单，“mouselook”是玩家通过移动鼠标来定位相机的地方。 它最引人注目的使用在第一人称射击类型，其中相机的运动作为你的目标你的武器的手段。
 
-\[35\]：Mouselook已被黑客入游戏的进取的玩家，但像大多数扫荡的变化，它不能在战网上使用。 （\[来源]()（http://www.youtube.com/watch?v=S5t9NWViPrE））
+\[35\]：Mouselook已被黑客入游戏的进取的玩家，但像大多数扫荡的变化，它不能在战网上使用。 （\[来源](http://www.youtube.com/watch?v=S5t9NWViPrE））
 
 \[36\]：如果你想确认这一点，请加载你的_The Frozen Throne_的副本，并尝试第一方自定义地图_Azeroth Grand Prix_。 即使当它在本地设置中播放时，地图也有相当多的延迟问题。
 
